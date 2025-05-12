@@ -23,7 +23,6 @@ Execute the C Program for the desired output.
 ## Write a C program that illustrates two processes communicating using shared memory.
 
 ```c
-///sem.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
